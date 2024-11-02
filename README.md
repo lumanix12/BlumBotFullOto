@@ -33,15 +33,12 @@ This project is a bot designed to automate certain tasks. Before running the bot
    - The script will create a `.env` file from `.env-example` if it does not already exist.
 
 4. **Custom Payload Server**  
-   During the execution of `run.bat`, the script will also clone the repository from [BlumPayloadGenerator](https://github.com/KobaProduction/BlumPayloadGenerator) and run the `start.bat` file. This step is crucial for setting up the **CUSTOM_PAYLOAD_SERVER_URL**.
+   During the execution of `Setup.bat`, the script will also clone the repository from [BlumPayloadGenerator](https://github.com/KobaProduction/BlumPayloadGenerator) and run the `start.bat` file. This step is crucial for setting up the **CUSTOM_PAYLOAD_SERVER_URL**.
 
-5. **Start the Bot**  
-   After the setup, the script will launch the bot by executing `python main.py`. 
-
-6. **Add Accounts**  
+5. **Add Accounts**  
    Once the bot Setup, you will need to add accounts by running the **Create season** function. After adding the accounts, you must `run.bat`.
 
-7. **Run Clicker**  
+6. **Run.bat**  
    You will then select the **Run clicker** option to start the bot operations.
 
 ## Important Notes
