@@ -25,8 +25,8 @@ This project is a bot designed to automate certain tasks. Before running the bot
    cd BlumBotFullOto
    ```
 
-2. **Run `run.bat`**  
-   Double-click on `run.bat` to initiate the setup process. **Do not close the command window during this process.**
+2. **Setup `Setup.bat`**  
+   Double-click on `Setup.bat` to initiate the setup process. **Do not close the command window during this process.**
 
 3. **Environment Setup**  
    - If you don't have a `.env` file, the script will prompt you to update the `.env-example` file with your API_ID and API_HASH. After updating, confirm to proceed.
@@ -39,7 +39,7 @@ This project is a bot designed to automate certain tasks. Before running the bot
    After the setup, the script will launch the bot by executing `python main.py`. 
 
 6. **Add Accounts**  
-   Once the bot starts, you will need to add accounts by running the **Create season** function. After adding the accounts, you must restart `run.bat`.
+   Once the bot Setup, you will need to add accounts by running the **Create season** function. After adding the accounts, you must `run.bat`.
 
 7. **Run Clicker**  
    You will then select the **Run clicker** option to start the bot operations.
