@@ -21,8 +21,8 @@ This project is a bot designed to automate certain tasks. Before running the bot
 1. **Clone the Repository**  
    Clone this repository to your local machine using:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/lumanix12/BlumBotFullOto
+   cd BlumBotFullOto
    ```
 
 2. **Run `run.bat`**  
